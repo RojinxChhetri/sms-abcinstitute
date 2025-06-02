@@ -31,7 +31,7 @@ A comprehensive student management system for educational institutions built wit
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/smartedu-sms.git
+git clone https://github.com/RojinxChhetri/smartedu-sms.git
 ```
 
 2. Navigate to the project directory:
